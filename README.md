@@ -51,7 +51,7 @@ src/
 
 ## Preview
 
-```
+
 ![Notes App Screenshot](./notes-app.png)
 ```
 
